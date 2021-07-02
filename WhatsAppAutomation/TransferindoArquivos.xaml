@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>648,1109</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>898,1109</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>TransferindoArquivos_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="25">
@@ -59,7 +59,7 @@
       <AssemblyReference>System.Memory</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="TransferindoArquivos" sap:VirtualizedContainerService.HintSize="504,1044" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="TransferindoArquivos(Init)" sap:VirtualizedContainerService.HintSize="504,1044" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="C:\Users\GlobalRed\Desktop\Mandar Imagens ou documentos wpp" Name="PathDosArquivos" />
       <Variable x:TypeArguments="x:Int32" Name="itemForEach" />

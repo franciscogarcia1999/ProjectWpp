@@ -50,7 +50,7 @@
       <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="InicializaçãoWhatsAppWeB" sap:VirtualizedContainerService.HintSize="509,613" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="InicializaçãoWhatsAppWeB(init)" sap:VirtualizedContainerService.HintSize="509,613" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="ui:Browser" Name="crome" />
     </Sequence.Variables>
