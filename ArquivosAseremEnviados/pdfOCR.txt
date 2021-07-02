@@ -1,0 +1,54 @@
+Instruções de pagamento pelo Internet Banking ou Caixa
+Copie a sequência numérica abaixo e pague no caixa eletrônico ou por internet banking:
+Linha Digitável: 23793.38029 60977.622491 14006.333307 1 86020000025078 Valor: R$ 250.78
+Instruções de pagamento em agência bancária ou lotérica
+Imprima em impressora jato de tinta (ink jet) ou laser em qualidade normal ou alta (Não use modo econômico)
+Não rasure, risque, fure ou dobre a região onde se encontra o código de barras.
+Caso não apareça o código de barras no final, clique em F5 para atualizar esta tela.
+
+Recibo do sacado
+
+237-2 Pagamento do Pedido #3396646
+
+Beneficiário Agência/Código do Beneficiário Espécie Quantidade Nosso número
+Mercado Pago a serviço de TERABYTE ATACADO E VAREJO DE Real
+PRODUTOS DE INFORMATICA LTDA CNPJ: 07.993.973/0001-18 26/09776224914-8
+
+Número de documento CPF/CNPJ Vencimento Valor Documento
+9776224914 03589272180 26/04/2021 250.78
+(-) Desconto / Abatimentos (-) Outras deduções (+) Mora / Multa (+) Outros acréscimos (=) Valor cobrado
+
+Sacado
+FRANCISCO PAGLIARINI
+Autenticação mecânica
+
+Corte na linha pontilhada
+
+237-2
+
+Local de pagamento Vencimento
+Pagável em qualquer Banco até o vencimento 26/04/2021
+Beneficiário Agência/Código do Beneficiário
+Mercado Pago a serviço de TERABYTE ATACADO E VAREJO DE PRODUTOS DE
+INFORMATICA LTDA CNPJ: 07.993.973/0001-18
+
+Data do documento No documento Espécie doc. Aceite Data processamento Nosso número
+23/04/2021 9776224914 Outro N 23/04/2021 26/09776224914-8
+Uso do banco Carteira Espécie Quantidade Valor Documento (=) Valor documento
+26 Real 250.78 250.78
+Instruções (Texto de responsabilidade do Beneficiário) (-) Desconto / Abatimentos
+Não receber Pagamento em Cheque (-) Outras deduções
+Boleto com vencimento no final de semana, poderá ser pago no próximo dia útil
+Se tiver algum problema com a compra, acesse https://www.mercadopago.com.br/ajuda (+) Mora / Multa
+
+(+) Outros acréscimos
+
+(=) Valor cobrado
+
+Sacado
+FRANCISCO PAGLIARINI
+
+Cód. baixa
+Sacador/Avalista Autenticação mecânica Ficha de Compensação
+
+Corte na linha pontilhada
