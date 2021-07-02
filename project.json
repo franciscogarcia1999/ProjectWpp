@@ -23,8 +23,7 @@
     ],
     "executionType": "Workflow",
     "readyForPiP": false,
-    "startsInPiP": false,
-    "mustRestoreAllDependencies": false
+    "startsInPiP": false
   },
   "designOptions": {
     "projectProfile": "Developement",
